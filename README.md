@@ -3,5 +3,5 @@
 ### Demo [here](https://bolajiayodeji.github.io/iOS-Calculator/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BolajiAyodeji/netty-finder/master/img/demo.png" alt="Demo View">
+  <img src="https://raw.githubusercontent.com/BolajiAyodeji/iOS-Calculator/master/img/demo.png" alt="Demo View">
 </p>
