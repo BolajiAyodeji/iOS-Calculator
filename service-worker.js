@@ -30,7 +30,7 @@ self.addEventListener('fetch', function (event) {
                             '/index.html?homescreen=1', //default
                             '/?homescreen=1', //default
                             '/css/app.css', // configure as by your site ; just an example
-                            '/img/icons/icon-144x144.png', // choose images to keep offline; just an example
+                            '/img/logo.png', // choose images to keep offline; just an example
                             // Do not replace/delete/editmganifest.js path below
 
                             '/manifest.js',
