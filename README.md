@@ -1,5 +1,7 @@
 # iOS-Calculator [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/iOS-Calculator-brightgreen.svg)
 
+### Progressive Web App iOS Calculator. For Web, Android, iOS and Desktop.
+
 ### Demo [here](https://ios-calculator.herokuapp.com/)
 
 <p align="center">
