@@ -1,5 +1,4 @@
-// NOTE:
-// This is the final source code file for a blog post "How to build a calculator". You can follow the lesson at https://zellwk.com/blog/calculator-part-1
+// Script starts here
 
 const calculate = (n1, operator, n2) => {
   let result = ''
@@ -68,3 +67,5 @@ keys.addEventListener('click', e => {
     }
   }
 })
+
+// Script ends here
